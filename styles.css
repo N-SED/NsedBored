@@ -1,0 +1,23 @@
+/* stylesheet */
+
+.header
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1000;
+    font-weight: 700;
+
+}
+.whitetext
+{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.background
+{
+    background-color: #000000;
+}
+.cntralign
+{
+    text-align: center;
+}
